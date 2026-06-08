@@ -1,7 +1,7 @@
 # 👋 Привет! Я — Mher Zardaryan
 
 
-> Разработчик программного обеспечения / ML-инженер / DevOps-специалист *(выберите подходящее)*
+> Разработчик программного обеспечения / ML-инженер 
 
 ---
 
@@ -11,15 +11,13 @@
 - 🏥 **Автоматизирую бизнес-процессы** — от записи пациентов до онлайн-консультаций
 - 🧠 **Внедряю AI-ассистентов** с собственной базой знаний (RAG)
 - 🌐 **Создаю backend-сервисы** и скрипты автоматизации на Python + Bash
-- 📊 *(дополните: data science, веб-разработка, mobile и т.д.)*
-
 ---
 
 ## 🚀 Мои проекты
 
-### 🤖 STOM Dental Bot *(текущий / последний)*
+### 🤖 STOM Dental Bot 
 
-Telegram-ассистент для стоматологической клиники «STOM» (г. Гавар, Армения).
+Telegram-ассистент для стоматологической клиники «STOM» 
 
 **Что делает:**
 - Отвечает на вопросы пациентов 24/7 через LLM с кастомным системным промптом
@@ -30,17 +28,6 @@ Telegram-ассистент для стоматологической клини
 **Стек:** `Python` · `python-telegram-bot` · `Ollama` · `Anthropic API` · `OpenAI API` · `Bash`
 
 🔗 *[ссылка на репозиторий, если публичный]*
-
----
-
-### 📌 Другие проекты
-
-*(добавьте сюда свои проекты в том же формате)*
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| `project-name` | Краткое описание | `Python` · `FastAPI` · `PostgreSQL` |
-| `another-project` | Краткое описание | `React` · `Node.js` · `Docker` |
 
 ---
 
@@ -70,23 +57,12 @@ Telegram-ассистент для стоматологической клини
 
 ## 📊 GitHub-статистика
 
-*(раскомментируйте, когда разместите в профильном репозитории)*
-
 <!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=default&hide_border=true" />
 </p>
 -->
-
----
-
-## 📫 Контакты
-
-- 💬 Telegram: [@username](https://t.me/username)
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 💼 LinkedIn: [ваш-профиль](https://linkedin.com/in/ваш-профиль)
-- 🌐 Личный сайт / блог: [example.com](https://example.com)
 
 ---
 
